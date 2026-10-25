@@ -1,0 +1,6 @@
+timestamp,stage,dissolved_oxygen_mg_l,bod_mg_l,cod_mg_l,ph,status
+2026-10-25 08:00:00,Inflow,1.2,280.0,550.0,6.8,Warning
+2026-10-25 08:30:00,Stage_1_Physical,1.8,210.0,420.0,7.0,Normal
+2026-10-25 09:00:00,Stage_2_Biological,4.5,85.0,160.0,7.2,Normal
+2026-10-25 09:30:00,Stage_3_Nanobubble,8.8,12.0,25.0,7.4,Optimal
+2026-10-25 10:00:00,Discharge,8.5,8.0,18.0,7.3,Optimal
